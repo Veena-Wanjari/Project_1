@@ -1,4 +1,4 @@
-# Project_1
+# Project_on_Python_Syntax
 
 Generating Receipt for customer.
 Create Purchasing Information and Receipts for Lovely Loveseats.
